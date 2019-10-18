@@ -1,0 +1,45 @@
+CHANGES
+=======
+
+* Remove unsued/extra variables
+* Tests will run only if test-requirements are installed
+* Update Readme to point to dist/libindic-normalizer
+* Add AUTHORS file
+* Update readme
+* Add more test cases
+* Handle unicode problems with Python 3
+* Cleanup rules
+* Modify gitignore
+* Use decode instead of unicode method
+* Remove unwanted variable + PEP8 fixes
+* Point to README.md
+* Add circleci conf
+* Add tox conf
+* Add travis config
+* Add test-requirements file
+* Remove empty README.rst file
+* Add namespace package and rename package to add libindic prefix
+* Add testrepository conf
+* Add directory strcuture to use namespace package
+* Make tests use testtools
+* Add makefile
+* Remove quotes from rules, Python3 support
+* Run autopep8 for styling
+* Make code support Python 3 also - Partial
+* Make tests use unicode strings
+* WSME REST Extension enabled
+* Python3 fixes
+* autopep8, print(), unicode only for py < 2
+* tests setup
+* normalize atomic chillus
+* Remove unwanted space indentation
+* version bump for bugfix release
+* fixed space removal from strings
+* New version release
+* calling function expects string as return value
+* Initial commit
+* Proper package was not created before now fixed setup.py
+* Fixed \_\_init\_\_.py and renamed normalizer -> core.py
+* Gitignore added
+* Setup script added
+* Initalized Normalizer
